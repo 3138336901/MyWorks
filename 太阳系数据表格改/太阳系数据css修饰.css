@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+th {
+    background-color: #ebebeb;
+}
+body {
+    font-family: 'Microsoft YaHei','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4 {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+table {
+    text-align: center;
+    margin: auto;
+    width: 1450px;
+    height: 700px;
+    border: 2px solid #c8c8c8 ;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #bebebe;
+    border-collapse: collapse;
+}
+.border-top {
+    border-top: 2px solid black;
+}
+.border-left {
+    width: 90px;
+    border-left: 2px solid black;
+}
+.border-bottom {
+    border-bottom: 2px solid black;
+}
+.border-right {
+    border-right: 2px solid black;
+}
+.color245 {
+    background-color: #f5f5f5;
+}
+.color250 {
+    background-color: #fafafa;
+}
